@@ -8,12 +8,11 @@
 	define( 'CHILD_THEME_VERSION', '1.2.0' );
 
 //* Enqueue Google fonts
-/*
 	add_action( 'wp_enqueue_scripts', 'cu_google_fonts' );
 	function cu_google_fonts() {
-		wp_enqueue_style( 'google-font-Montserrat', '//fonts.googleapis.com/css?family=Montserrat:300,400,700', array(), CHILD_THEME_VERSION );
+/* 		wp_enqueue_style( 'google-font-Montserrat', '//fonts.googleapis.com/css?family=Montserrat:300,400,700', array(), CHILD_THEME_VERSION ); */
+		wp_enqueue_style('google-font-ubuntu', '//fonts.googleapis.com/css?family=Ubuntu:400,500,700', array () );
 	}
-*/
 
 //* Load Font Awesome
 	add_action( 'wp_enqueue_scripts', 'enqueue_font_awesome' );

@@ -27,7 +27,7 @@
 --------------------------------------------- */
 
 body {
-	font-family: verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-family: ubuntu, verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 
 a {
@@ -44,7 +44,7 @@ h4,
 h5,
 h6,
 .widget-title {
-	font-family: verdana, 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-family: ubuntu, verdana, 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 
 /* Widgetized Homepage
@@ -162,7 +162,7 @@ input:hover[type="submit"],
 
 .site-header .site-title,
 .site-header .genesis-nav-menu {
-	font-family: verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-family: ubuntu, verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 
 .title-area {
@@ -193,7 +193,7 @@ input:hover[type="submit"],
 	top: 0;
 	width: 100%;
 	z-index: 999;
-	font-family: verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-family: ubuntu, verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 	font-weight: 400;
 }
 
@@ -313,7 +313,7 @@ input:hover[type="submit"],
 .herounit h1,
 .herounit h2,
 .herounit h3 {
-	font-family: verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-family: ubuntu, verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 	font-weight: 300;
 	color: #fff;
 }
