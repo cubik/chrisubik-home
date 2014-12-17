@@ -1,5 +1,6 @@
 wp-config.php
 .htaccess
+.config.codekit
 wp-admin
 wp-includes
 wp-cron.php
