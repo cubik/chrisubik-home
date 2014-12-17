@@ -1,6 +1,13 @@
 wp-config.php
 .htaccess
+.DS_Store
+.codekit-cache
 config.codekit
+favicon.ico
+index.php
+license.txt
+readme.html
+README.txt
 wp-admin
 wp-includes
 wp-cron.php
@@ -12,16 +19,10 @@ wp-settings.php
 wp-signup.php
 wp-trackback.php
 xmlrpc.php
-index.php
-license.txt
-readme.html
-README.txt
 wp-activate.php
 wp-blog-header.php
 wp-comments-post.php
 wp-config-sample.php
-.DS_Store
-*.DS_Store
 wp-content/cache
 wp-content/plugins
 wp-content/w3tc-config
@@ -43,6 +44,4 @@ wp-content/themes/parallax-pro
 wp-content/themes/resort
 wp-content/themes/scrollider
 wp-content/themes/storefront
-favicon.ico
 wp-content/uploads
-wp-content/themes/chrisubik/.codekit-cache
