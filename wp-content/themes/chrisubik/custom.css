@@ -6,7 +6,7 @@
 	Author URI: http://www.chrisubik.com/
 
 	Version: 1.0.0
-	Last Update: December 10, 2014
+	Last Update: January 6, 2015
 
 	Tags: header-image, footer-widgets, simple-social-icons, social-links-home
 
@@ -27,7 +27,7 @@
 --------------------------------------------- */
 
 body {
-	font-family: ubuntu, verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-family: ubuntu, verdana, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 a {
@@ -44,7 +44,7 @@ h4,
 h5,
 h6,
 .widget-title {
-	font-family: ubuntu, verdana, 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  font-family: ubuntu, verdana, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 /* Widgetized Homepage
@@ -162,7 +162,7 @@ input:hover[type="submit"],
 
 .site-header .site-title,
 .site-header .genesis-nav-menu {
-	font-family: ubuntu, verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-family: ubuntu, verdana, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .title-area {
@@ -193,7 +193,7 @@ input:hover[type="submit"],
 	top: 0;
 	width: 100%;
 	z-index: 999;
-	font-family: ubuntu, verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-family: ubuntu, verdana, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-weight: 400;
 }
 
@@ -313,7 +313,7 @@ input:hover[type="submit"],
 .herounit h1,
 .herounit h2,
 .herounit h3 {
-	font-family: ubuntu, verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-family: ubuntu, verdana, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-weight: 300;
 	color: #fff;
 }
@@ -414,7 +414,7 @@ input:hover[type="submit"],
 }
 
 .footer-widgets .simple-social-icons ul li a {
-background-color: transparent  !important;
+  background-color: transparent  !important;
 }
 
 
@@ -669,14 +669,9 @@ background-color: transparent  !important;
 */
 
 
-
-
-
-
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
-/*
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
 	only screen and (-moz-min-device-pixel-ratio: 1.5),
@@ -684,7 +679,6 @@ Media Queries
 	only screen and (min-device-pixel-ratio: 1.5) {
 
 }
-*/
 
 @media only screen and (max-width: 1139px) {
 
